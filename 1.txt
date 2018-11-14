@@ -1,0 +1,2 @@
+n thread "main" java.lang.IllegalArgumentException: expected file name as argument
+  at com.sun.javafx.css.parser.Css2Bin.main(Css2Bin.java:40)
